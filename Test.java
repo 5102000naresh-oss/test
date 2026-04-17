@@ -9,7 +9,7 @@ public class Test {
     
   }
 
-   static void add(){
+   static void div(){
 
     int a=10;
     int b=20;
@@ -38,6 +38,7 @@ public class Test {
   public static void main(String[] args)
   {
     add();
+    div();
     sub();
     multi();
   }
