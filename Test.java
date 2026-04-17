@@ -8,6 +8,15 @@ public class Test {
     System.out.println("The sum is " +result);
     
   }
+
+   static void add(){
+
+    int a=10;
+    int b=20;
+    int result = a+b;
+    System.out.println("The sum is " +result);
+    
+  }
   static void sub(){
 
     int c=20;
